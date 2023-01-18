@@ -1,0 +1,68 @@
+.container {
+    background-color: crimson;
+    text-align: center;
+}
+.heading {
+    
+    color: white;
+}
+.Scontainer {
+    background-color: lightcoral;
+    height: 800px;
+    width: 700px;
+    margin-left: 300px;
+    border-radius: 20px;
+    
+    
+}
+.subContainer {
+    margin-right: 400px;
+    padding: 30px;
+}
+.int {
+    height: 30px;
+    width: 400px;
+    margin-left: 30px;
+    border-radius: 10px;
+    border-width: 0;
+}
+.para {
+    margin-right: 40px;
+    color: darkmagenta;
+    font-weight: bold;
+}
+.para1 {
+    margin-right: 70px;
+    color: darkmagenta;
+    font-weight: bold;
+}
+.para2 {
+    margin-right: 60px;
+    color: darkmagenta;
+    font-weight: bold;
+}
+.para3 {
+    color: darkmagenta;
+    font-weight: bold;
+}
+.btn1 {
+    height: 40px;
+    width: 60px;
+    margin-top: 60px;
+    margin-left: 530px;
+    width: 90px;
+    font-size: 20px;
+    border-radius: 10px;
+    background-color: blue;
+    color: white;
+    border-width: 0;
+}
+.btn2 {
+    text-align: center;
+    margin-left: 250px;
+    margin-top: 100px;
+    width: 150px;
+    height: 50px;
+    font-size: 20px;
+    
+}
